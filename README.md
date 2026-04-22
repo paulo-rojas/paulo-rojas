@@ -17,7 +17,6 @@ system built with Spring Boot 3 + Angular.
 ## 🔨 Currently building
 
 - **Bienestar Universitario UNT** — Student wellness system (thesis)
-- **Microservices wallet** — Digital wallet with Spring Boot, Kafka and Redis
 
 ## 📫 Contact
 
